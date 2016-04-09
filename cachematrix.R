@@ -1,4 +1,4 @@
-## Function makeCacheMatrix creates a special inverse matrix object that can cache its inverse. makeCacheMatrix contains 4 functions: set, get, setmean, getmean.
+## Function makeCacheMatrix creates a special inverse matrix object that can cache its inverse. makeCacheMatrix contains 4 functions: set, get, setinverse, getinverse.
 ## get is a function that returns the vector x stored in the main function.
 ## set is a function that changes the vector stored in the main function.
 ## setinverse and getinverse are functions very similar to set and get.
