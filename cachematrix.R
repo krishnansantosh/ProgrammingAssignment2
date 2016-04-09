@@ -3,7 +3,7 @@
 ## set is a function that changes the vector stored in the main function.
 ## setinverse and getinverse are functions very similar to set and get.
 ## They don't calculate the inverse, they simply store the value of the input in a variable inv.
-## into the main function makeVector (setinverse) and return it (getinverse).
+## into the main function makeCacheMatrix (setinverse) and return it (getinverse).
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
